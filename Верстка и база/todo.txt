@@ -1,0 +1,7 @@
+добавить .content:after{ 
+content:"";
+display: both;
+clear: both;
+}
+
+заменить content на контейнер-обертку center, а content - это содержимое внутри.
